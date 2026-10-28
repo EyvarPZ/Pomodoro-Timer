@@ -23,9 +23,12 @@ Aplicación de escritorio en Python que implementa la técnica Pomodoro para ayu
 ## Estructura
 
 ```
-.
+pomodoro-timer/
 ├── pomodoro.py
-└── README.md
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 
